@@ -19,7 +19,6 @@
     'category': 'Odontology',
     'depends': [
         'base',
-        'contacts',
         'l10n_ec', 
     ],
     #'data': [
